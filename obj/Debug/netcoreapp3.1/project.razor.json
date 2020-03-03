@@ -1,5 +1,5 @@
 {
-  "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/logindds.csproj",
+  "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/logindds.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20501,38 +20501,38 @@
   "RootNamespace": "logindds",
   "Documents": [
     {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages/_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/Shared/_Layout.cshtml",
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages/Shared/_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages/_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/Error.cshtml",
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/Error.cshtml",
       "TargetPath": "Pages/Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/Index.cshtml",
-      "TargetPath": "Pages/Index.cshtml",
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages/_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/fdsoftware/Programacion/coderio/logindds/Pages/Privacy.cshtml",
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages/_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/Privacy.cshtml",
       "TargetPath": "Pages/Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/fdsoftware/Programacion/coderio/RazorLive/Pages/Index.cshtml",
+      "TargetPath": "Pages/Index.cshtml",
       "FileKind": "mvc"
     }
   ],
